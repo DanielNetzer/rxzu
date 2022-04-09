@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Vonage/rxzu",
+    "url": "https://github.com/DanielNetzer/rxzu",
     "directory": "packages/angular"
   },
   "publishConfig": {
@@ -28,5 +28,5 @@
     "angular"
   ],
   "description": "RxZu Angular Wrapper",
-  "homepage": "https://vonage.github.io/rxzu"
+  "homepage": "https://DanielNetzer.github.io/rxzu"
 }
